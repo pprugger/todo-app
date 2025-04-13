@@ -1,6 +1,6 @@
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: rpailer-dev
+  name: pprugger-dev
   labels:
     name: todo-app
